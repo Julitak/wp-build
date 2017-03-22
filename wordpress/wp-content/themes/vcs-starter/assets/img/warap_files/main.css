@@ -1,0 +1,138 @@
+body {
+
+	background-color: #486377;
+	font-size: 16px;
+}
+
+.container {
+
+	max-width: 929px;
+	margin: 0 auto;
+}
+
+.section {
+
+	margin-top: 5px;
+}
+
+/* headerio css */
+
+header li {
+	display: inline-block;
+}
+
+header .container {
+	background-color: #fff;
+}
+
+.social-media-nav {
+	background-color: pink;
+}
+
+.burgeris {
+	display: inline;
+	background-color: #5ccbc7;
+	height: 100%;
+}
+
+/*sekciju meniu css*/
+
+.light-nav {
+
+	background-color: #fff;
+
+}
+
+
+.dark-nav {
+
+	background-color: #152840;
+}
+
+.media-list {
+	background-color: #fff;
+}
+
+.fb-box {
+	background-color: #4e6ca8;
+}
+
+.twtr-box {
+
+	background-color: #55c7f5;
+}
+
+.row-second {
+
+	background-color: lightgray;
+}
+
+.row-third {
+
+	background-color: #fff;
+}
+
+/*videosekcijos css*/
+
+.story-box {
+	background-color: #fff;
+}
+
+.options {
+
+	background-color: #203044;
+	color: #fff;
+}
+
+.video-box {
+
+	background-color: #787878;
+}
+
+.instagram-box {
+
+	background-color: #203044;
+	color: #fff;
+}
+
+/*finalines sekcijos css*/
+
+.twitterfeed {
+	background-color: #55c7f5;
+}
+
+.longcol {
+	background-color: #55c7f5;
+}
+
+.calendar-box {
+
+	background-color: #16283f;
+}
+
+.stories-box {
+
+	background: #e76163;
+}
+
+.blankbox {
+
+	background-color: #787878;
+}
+
+.ipsumdef {
+	background-color: #fff;
+}
+
+.quotations {
+	background-color: lightgray;
+}
+
+.wownav {
+	background-color: pink;
+}
+
+.carousel-hands .container {
+
+	padding: 0;
+}
